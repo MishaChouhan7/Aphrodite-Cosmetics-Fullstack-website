@@ -1,1 +1,7 @@
 Hi I am karan chouhan and this is a sample testing comit file
+
+git pull origin main  -- for fetching latest code files
+git commit -m "The commit message" -- for the commit code changes
+git push origin main -- for pushing the code files
+
+** main is the branch name, you have to mention the branch name instead of main
